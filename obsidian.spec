@@ -1,5 +1,5 @@
 Name:           obsidian
-Version:        1.10.3
+Version:        1.10.6
 Release:        0
 Summary:        A powerful knowledge base that works on top of Markdown files
 ExclusiveArch:  x86_64
